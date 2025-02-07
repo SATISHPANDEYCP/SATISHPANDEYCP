@@ -1,4 +1,4 @@
-👋 Hi, I’m Satish Pandey
+👋 Hi, I’m Satish Pandey </br>
 👀 I’m interested in Full Stack Development, Open Source, and Competitive Programming.
 🌱 I’m currently learning advanced backend technologies and DevOps.
 💞️ I’m looking to collaborate on MERN stack projects and innovative web applications.
