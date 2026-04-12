@@ -25,8 +25,8 @@ jobs:
         run: |
           python - <<'PY'
           import json
-          import random
           import re
+          import time
           import urllib.request
 
           README_PATH = "README.md"
@@ -77,8 +77,22 @@ jobs:
           except Exception:
               pass
 
-          if not quote or not author:
-              quote, author = random.choice(fallback_quotes)
+          with open(README_PATH, "r", encoding="utf-8") as readme_file:
+              readme = readme_file.read()
+
+          # Read current thought so we can avoid repeating it.
+          current_match = re.search(r'<i>"(.*?)"</i>', readme, re.DOTALL)
+          current_quote = current_match.group(1).strip() if current_match else ""
+
+          # If API is unavailable, non-dev, or returns same quote, rotate by 5-min slot.
+          if not quote or not author or quote == current_quote:
+              slot = int(time.time() // 300)
+              start = slot % len(fallback_quotes)
+              for i in range(len(fallback_quotes)):
+                  candidate_quote, candidate_author = fallback_quotes[(start + i) % len(fallback_quotes)]
+                  if candidate_quote != current_quote:
+                      quote, author = candidate_quote, candidate_author
+                      break
 
           quote = quote.replace('"', "'")
           author = author.replace('"', "'")
@@ -89,9 +103,6 @@ jobs:
               f"<p align=\"center\"><sub>- {author}</sub></p>\n"
               f"{END}"
           )
-
-          with open(README_PATH, "r", encoding="utf-8") as readme_file:
-              readme = readme_file.read()
 
           pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.DOTALL)
           if not pattern.search(readme):
