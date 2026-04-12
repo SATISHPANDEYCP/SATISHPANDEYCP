@@ -85,8 +85,8 @@ jobs:
 
           replacement = (
               f"{START}\n"
-              f"<p align=\"center\"><i>\"{quote}\"</i></p>\n\n"
-              f"<p align=\"center\">- {author}</p>\n"
+              f"<p align=\"center\"><strong><i>\"{quote}\"</i></strong></p>\n\n"
+              f"<p align=\"center\"><sub>- {author}</sub></p>\n"
               f"{END}"
           )
 

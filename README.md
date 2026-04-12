@@ -98,15 +98,11 @@
 - Email: satishpandeycp@gmail.com
 - LinkedIn: https://www.linkedin.com/in/satishpandeycp/
 
----
-
-<p align="center"><i>Consistency beats intensity. I show up, build, and improve every day.</i></p>
-
-## Code and Coffee Thought
+## Developer Thought
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
+<p align="center"><strong><i>"First, solve the problem. Then, write the code."</i></strong></p>
 
-<p align="center">- John Johnson</p>
+<p align="center"><sub>- John Johnson</sub></p>
 <!--DEV_THOUGHT_END-->
 
