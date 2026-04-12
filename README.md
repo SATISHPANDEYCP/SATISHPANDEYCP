@@ -5,16 +5,7 @@
 </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/satishpandeycp/">
-		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="https://satishpandeycp.vercel.app">
-		<img src="https://img.shields.io/badge/Portfolio-Visit-111827?logo=vercel&logoColor=white" alt="Portfolio" />
-	</a>
-	<a href="mailto:satishpandeycp@gmail.com">
-		<img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" />
-	</a>
-	<img src="https://komarev.com/ghpvc/?username=satishpandeycp&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+	<a href="https://www.linkedin.com/in/satishpandeycp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://satishpandeycp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?logo=vercel&logoColor=white" alt="Portfolio" /></a><a href="mailto:satishpandeycp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" /></a><img src="https://komarev.com/ghpvc/?username=satishpandeycp&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
@@ -69,17 +60,17 @@
 ## GitHub Insights
 
 <p align="center">
-	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satishpandeycp&theme=github_dark" alt="GitHub stats" />
-	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satishpandeycp&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+	<img width="49%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satishpandeycp&theme=github_dark" alt="GitHub stats" />
+	<img width="49%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satishpandeycp&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 </p>
 
 <p align="center">
-	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satishpandeycp&theme=github_dark" alt="Repositories per language" />
-	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satishpandeycp&theme=github_dark" alt="Most commit language" />
+	<img width="49%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satishpandeycp&theme=github_dark" alt="Repositories per language" />
+	<img width="49%" height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satishpandeycp&theme=github_dark" alt="Most commit language" />
 </p>
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishpandeycp&theme=github_dark" alt="Profile details" />
+	<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishpandeycp&theme=github_dark" alt="Profile details" />
 </p>
 
 ## Connect
