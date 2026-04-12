@@ -1,16 +1,12 @@
-# Hi, I am Satish Pandey
+# Hi, I'm Satish Pandey
 
-Full Stack Developer and Software Test Trainee focused on building reliable, scalable, and user-centric web products.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satishpandeycp/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/satishpandeycp)
+Full Stack Developer focused on building reliable web applications, solving real-world problems, and continuously improving engineering fundamentals.
 
 ## About Me
 
-- MCA student at MMMUT, Gorakhpur (2025) with strong foundations in software engineering and web technologies.
-- Software Test Trainee at Magic EdTech, working on functional and regression testing, bug reporting, and test execution.
-- I build full stack applications with practical architecture, role-based access, and responsive user interfaces.
-- Solved 200+ DSA problems across LeetCode and HackerRank.
+- Interested in full stack development, open source, and competitive programming.
+- Currently learning advanced backend systems and DevOps practices.
+- Looking to collaborate on MERN stack projects and scalable web products.
 
 ## Tech Stack
 
@@ -47,12 +43,11 @@ Full Stack Developer and Software Test Trainee focused on building reliable, sca
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 
 ## Connect
 
-- Email: satishpandeycpj@gmail.com
-- LinkedIn: https://www.linkedin.com/in/satishpandeycp/
+- Email: satishpandeycp@gmail.com
+- LinkedIn: [linkedin.com/in/satishpandeycp](https://www.linkedin.com/in/satishpandeycp/)
 
 ---
 
