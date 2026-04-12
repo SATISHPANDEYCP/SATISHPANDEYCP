@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"It is far easier to make a correct program fast than to make a fast program correct."</i></strong></p>
+<p align="center"><strong><i>"Software is a great combination between artistry and engineering."</i></strong></p>
 
-<p align="center"><sub>- Herb Sutter</sub></p>
+<p align="center"><sub>- Bill Gates</sub></p>
 <!--DEV_THOUGHT_END-->
 
