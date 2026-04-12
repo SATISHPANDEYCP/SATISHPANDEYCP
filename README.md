@@ -1,12 +1,31 @@
-# Hi, I'm Satish Pandey
+<h1 align="center">Satish Pandey</h1>
 
-Full Stack Developer focused on building reliable web applications, solving real-world problems, and continuously improving engineering fundamentals.
+<p align="center">
+	Full Stack Developer | MERN Stack | Problem Solver
+</p>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/satishpandeycp/">
+		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="mailto:satishpandeycp@gmail.com">
+		<img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" />
+	</a>
+	<img src="https://komarev.com/ghpvc/?username=satishpandeycp&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Learning+backend+architecture+and+DevOps;Open+to+collaborating+on+impactful+projects" alt="Typing intro" />
+</p>
+
+---
 
 ## About Me
 
-- Interested in full stack development, open source, and competitive programming.
-- Currently learning advanced backend systems and DevOps practices.
-- Looking to collaborate on MERN stack projects and scalable web products.
+- Full Stack Developer focused on clean architecture, maintainable code, and practical problem-solving.
+- Currently leveling up in advanced backend engineering and DevOps workflows.
+- Interested in open source, competitive programming, and high-impact product development.
+- Open to collaborating on MERN stack and scalable web application projects.
 
 ## Tech Stack
 
@@ -44,11 +63,22 @@ Full Stack Developer focused on building reliable web applications, solving real
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
+## GitHub Insights
+
+<p align="center">
+	<img height="165" src="https://github-readme-stats.vercel.app/api?username=satishpandeycp&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+	<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=satishpandeycp&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishpandeycp&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
+
 ## Connect
 
 - Email: satishpandeycp@gmail.com
-- LinkedIn: [linkedin.com/in/satishpandeycp](https://www.linkedin.com/in/satishpandeycp/)
+- LinkedIn: https://www.linkedin.com/in/satishpandeycp/
 
 ---
 
-"Consistency beats intensity. I show up, build, and improve every day."
+<p align="center"><i>Consistency beats intensity. I show up, build, and improve every day.</i></p>
