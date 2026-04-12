@@ -24,6 +24,17 @@
 - Interested in open source, competitive programming, and high-impact product development.
 - Open to collaborating on MERN stack and scalable web application projects.
 
+## Current Focus
+
+- Designing backend services with better structure, performance, and reliability.
+- Improving deployment workflows and DevOps fundamentals for production-ready apps.
+- Building full stack projects with practical, user-focused outcomes.
+
+## Featured Work
+
+- Personal Portfolio: https://satishpandeycp.vercel.app
+- GitHub Projects: https://github.com/satishpandeycp?tab=repositories
+
 ## Tech Stack
 
 ### Languages
@@ -75,6 +86,11 @@
 <p align="center">
 	<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishpandeycp&theme=github_dark" alt="Profile details" />
 </p>
+
+## Open to Opportunities
+
+- Open for internships, freelance opportunities, and full-time software roles.
+- Preferred domain: Full Stack Web Development (MERN + scalable backend systems).
 
 ## Connect
 
