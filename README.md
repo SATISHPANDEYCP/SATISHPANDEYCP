@@ -17,12 +17,6 @@
 
 ---
 
-## Developer Thoughts
-
-<p align="center">
-	<img width="98%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer thought" />
-</p>
-
 ## About Me
 
 - Full Stack Developer focused on clean architecture, maintainable code, and practical problem-solving.
@@ -107,3 +101,9 @@
 ---
 
 <p align="center"><i>Consistency beats intensity. I show up, build, and improve every day.</i></p>
+
+## Dev Thought of the Day
+
+<p align="center">
+	<img width="98%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer thought" />
+</p>
