@@ -8,6 +8,9 @@
 	<a href="https://www.linkedin.com/in/satishpandeycp/">
 		<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
+	<a href="https://satishpandeycp.vercel.app">
+		<img src="https://img.shields.io/badge/Portfolio-Visit-111827?logo=vercel&logoColor=white" alt="Portfolio" />
+	</a>
 	<a href="mailto:satishpandeycp@gmail.com">
 		<img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" />
 	</a>
@@ -76,11 +79,12 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=satishpandeycp&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishpandeycp&theme=github_dark" alt="Profile details" />
 </p>
 
 ## Connect
 
+- Portfolio: https://satishpandeycp.vercel.app
 - Email: satishpandeycp@gmail.com
 - LinkedIn: https://www.linkedin.com/in/satishpandeycp/
 
