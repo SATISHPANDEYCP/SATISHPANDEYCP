@@ -20,6 +20,7 @@ Full Stack Developer and Software Test Trainee focused on building reliable, sca
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
@@ -47,46 +48,6 @@ Full Stack Developer and Software Test Trainee focused on building reliable, sca
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-
-## Experience
-
-### Magic EdTech | Software Test Trainee
-
-- Performing functional and regression testing to ensure software quality and reliability.
-- Collaborating with developers to identify, document, and resolve bugs.
-- Gaining hands-on experience in test case design, execution, and reporting.
-
-## Projects
-
-### StayNook | Full Stack Rental Home Platform
-
-- Stack: EJS, Node.js, Express.js, MongoDB, CSS, Bootstrap.
-- Built search, filter, and booking workflows with an intuitive rental experience.
-- Implemented admin controls for property listing and booking management.
-
-### CareConnect | Full Stack Appointment Management System
-
-- Stack: React, Node.js, Express.js, MongoDB, CSS.
-- Developed role-based panels for Admin, Doctor, and Patient.
-- Added secure authentication, real-time booking, and responsive dashboards.
-
-### Expenso | Full Stack Expense Management Platform
-
-- Stack: React, Node.js, Express.js, MongoDB, CSS, Cloudinary.
-- Built secure expense tracking with Google authentication and guest mode.
-- Added analytics, automated calculations, and PDF report export.
-
-## Certifications
-
-- Web Development Fundamentals Certificate | IBM (Feb 2025)
-- C, C++, and Data Structures & Algorithms | MySirG.com (Feb 2024)
-- Verified Skills: JavaScript, Problem Solving, SQL | HackerRank (Sep 2024)
-- Web Development Training Certificate | Placify (Sep 2024)
-
-## Achievements
-
-- Solved 200+ DSA problems: 100+ on LeetCode and 100+ on HackerRank.
-- Secured 3rd position in the Research Paper Writing Competition VIVIBHA 2024.
 
 ## Connect
 
