@@ -102,8 +102,11 @@
 
 <p align="center"><i>Consistency beats intensity. I show up, build, and improve every day.</i></p>
 
-## Dev Thought of the Day
+## Code and Coffee Thought
 
-<p align="center">
-	<img width="98%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer thought" />
-</p>
+<!--DEV_THOUGHT_START-->
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
+
+<p align="center">- John Johnson</p>
+<!--DEV_THOUGHT_END-->
+

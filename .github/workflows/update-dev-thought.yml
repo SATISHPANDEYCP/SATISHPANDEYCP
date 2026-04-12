@@ -1,0 +1,117 @@
+name: Update Dev Thought
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-thought:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Update thought in README
+        run: |
+          python - <<'PY'
+          import json
+          import random
+          import re
+          import urllib.request
+
+          README_PATH = "README.md"
+          START = "<!--DEV_THOUGHT_START-->"
+          END = "<!--DEV_THOUGHT_END-->"
+
+          fallback_quotes = [
+              ("Programs must be written for people to read, and only incidentally for machines to execute.", "Harold Abelson"),
+              ("Any fool can write code that a computer can understand. Good programmers write code that humans can understand.", "Martin Fowler"),
+              ("Simplicity is the soul of efficiency.", "Austin Freeman"),
+              ("First, solve the problem. Then, write the code.", "John Johnson"),
+              ("Before software can be reusable it first has to be usable.", "Ralph Johnson"),
+              ("Talk is cheap. Show me the code.", "Linus Torvalds"),
+              ("The most disastrous thing that you can ever learn is your first programming language.", "Alan Kay"),
+              ("Code is like humor. When you have to explain it, it's bad.", "Cory House"),
+          ]
+
+          dev_keywords = {
+              "code", "coding", "program", "software", "developer", "develop", "debug",
+              "bug", "system", "algorithm", "engineering", "engineer", "computer", "function",
+              "clean code", "refactor", "architecture", "api", "backend", "frontend"
+          }
+
+          dev_authors = {
+              "Martin Fowler", "Linus Torvalds", "Alan Kay", "Edsger W. Dijkstra", "Donald Knuth",
+              "Bjarne Stroustrup", "Grace Hopper", "Ken Thompson", "Brian Kernighan", "John Johnson",
+              "Harold Abelson", "Ralph Johnson", "Cory House", "Robert C. Martin"
+          }
+
+          def looks_developer_related(text, author_name):
+              lowered = (text or "").lower()
+              if any(word in lowered for word in dev_keywords):
+                  return True
+              return (author_name or "").strip() in dev_authors
+
+          quote = None
+          author = None
+
+          try:
+              with urllib.request.urlopen("https://zenquotes.io/api/random", timeout=10) as response:
+                  payload = json.loads(response.read().decode("utf-8"))
+                  if isinstance(payload, list) and payload:
+                      candidate_quote = payload[0].get("q", "").strip()
+                      candidate_author = payload[0].get("a", "").strip()
+                      if looks_developer_related(candidate_quote, candidate_author):
+                          quote = candidate_quote
+                          author = candidate_author
+          except Exception:
+              pass
+
+          if not quote or not author:
+              quote, author = random.choice(fallback_quotes)
+
+          quote = quote.replace('"', "'")
+          author = author.replace('"', "'")
+
+          replacement = (
+              f"{START}\n"
+              f"<p align=\"center\"><i>\"{quote}\"</i></p>\n\n"
+              f"<p align=\"center\">- {author}</p>\n"
+              f"{END}"
+          )
+
+          with open(README_PATH, "r", encoding="utf-8") as readme_file:
+              readme = readme_file.read()
+
+          pattern = re.compile(re.escape(START) + r".*?" + re.escape(END), re.DOTALL)
+          if not pattern.search(readme):
+              raise RuntimeError("Thought markers not found in README.md")
+
+          updated = pattern.sub(replacement, readme, count=1)
+
+          with open(README_PATH, "w", encoding="utf-8", newline="\n") as readme_file:
+              readme_file.write(updated)
+          PY
+
+      - name: Commit changes if needed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update dev thought"
+          git push
