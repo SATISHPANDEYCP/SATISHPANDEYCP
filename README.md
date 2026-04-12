@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/satishpandeycp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="https://satishpandeycp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?logo=vercel&logoColor=white" alt="Portfolio" /></a><a href="mailto:satishpandeycp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" /></a><img src="https://komarev.com/ghpvc/?username=satishpandeycp&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+	<a href="https://www.linkedin.com/in/satishpandeycp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+	<a href="https://satishpandeycp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+	<a href="mailto:satishpandeycp@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+	<img src="https://komarev.com/ghpvc/?username=satishpandeycp&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
