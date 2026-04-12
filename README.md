@@ -87,18 +87,18 @@
 	<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satishpandeycp&theme=github_dark" alt="Profile details" />
 </p>
 
-## Open to Opportunities
+<h2>Open to Opportunities</h2>
 
 - Open for internships, freelance opportunities, and full-time software roles.
 - Preferred domain: Full Stack Web Development (MERN + scalable backend systems).
 
-## Connect
+<h2>Connect</h2>
 
 - Portfolio: https://satishpandeycp.vercel.app
 - Email: satishpandeycp@gmail.com
 - LinkedIn: https://www.linkedin.com/in/satishpandeycp/
 
-## Developer Thought
+<h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
 <p align="center"><strong><i>"First, solve the problem. Then, write the code."</i></strong></p>
