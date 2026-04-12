@@ -66,12 +66,17 @@
 ## GitHub Insights
 
 <p align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=satishpandeycp&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-	<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=satishpandeycp&theme=default&hide_border=true" alt="GitHub streak" />
+	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satishpandeycp&theme=github_dark" alt="GitHub stats" />
+	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satishpandeycp&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 </p>
 
 <p align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishpandeycp&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satishpandeycp&theme=github_dark" alt="Repositories per language" />
+	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satishpandeycp&theme=github_dark" alt="Most commit language" />
+</p>
+
+<p align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=satishpandeycp&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
 </p>
 
 ## Connect
