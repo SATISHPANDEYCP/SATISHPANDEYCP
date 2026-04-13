@@ -66,8 +66,7 @@ jobs:
               ("Readability counts.", "Tim Peters"),
               ("Code never lies, comments sometimes do.", "Ron Jeffries"),
               ("Fix the cause, not the symptom.", "Steve Maguire"),
-              ("The sooner you start to code, the longer the program will take.", "Roy Carlson"),
-              ("Programs are meant to be read by humans and only incidentally for computers to execute.", "Hal Abelson"),
+                ("The sooner you start to code, the longer the program will take.", "Roy Carlson"),
           ]
 
           dev_keywords = {
