@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Programs are meant to be read by humans and only incidentally for computers to execute."</i></strong></p>
+<p align="center"><strong><i>"Code never lies, comments sometimes do."</i></strong></p>
 
-<p align="center"><sub>- Hal Abelson</sub></p>
+<p align="center"><sub>- Ron Jeffries</sub></p>
 <!--DEV_THOUGHT_END-->
 
