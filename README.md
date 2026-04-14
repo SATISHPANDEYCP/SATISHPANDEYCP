@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"It is far easier to make a correct program fast than to make a fast program correct."</i></strong></p>
+<p align="center"><strong><i>"The sooner you start to code, the longer the program will take."</i></strong></p>
 
-<p align="center"><sub>- Herb Sutter</sub></p>
+<p align="center"><sub>- Roy Carlson</sub></p>
 <!--DEV_THOUGHT_END-->
 
