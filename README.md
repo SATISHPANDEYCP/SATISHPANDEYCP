@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The best error message is the one that never shows up."</i></strong></p>
+<p align="center"><strong><i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i></strong></p>
 
-<p align="center"><sub>- Thomas Fuchs</sub></p>
+<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
 <!--DEV_THOUGHT_END-->
 
