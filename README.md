@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i></strong></p>
+<p align="center"><strong><i>"The function of good software is to make the complex appear simple."</i></strong></p>
 
-<p align="center"><sub>- Martin Fowler</sub></p>
+<p align="center"><sub>- Grady Booch</sub></p>
 <!--DEV_THOUGHT_END-->
 
