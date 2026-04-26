@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i></strong></p>
+<p align="center"><strong><i>"Controlling complexity is the essence of computer programming."</i></strong></p>
 
-<p align="center"><sub>- F. Scott Fitzgerald</sub></p>
+<p align="center"><sub>- Brian Kernighan</sub></p>
 <!--DEV_THOUGHT_END-->
 
