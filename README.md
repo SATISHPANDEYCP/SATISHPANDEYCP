@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Deleted code is debugged code."</i></strong></p>
+<p align="center"><strong><i>"Simple things should be simple, complex things should be possible."</i></strong></p>
 
-<p align="center"><sub>- Jeff Sickel</sub></p>
+<p align="center"><sub>- Alan Kay</sub></p>
 <!--DEV_THOUGHT_END-->
 
