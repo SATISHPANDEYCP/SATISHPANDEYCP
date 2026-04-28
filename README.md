@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The function of good software is to make the complex appear simple."</i></strong></p>
+<p align="center"><strong><i>"One of my most productive days was throwing away 1000 lines of code."</i></strong></p>
 
-<p align="center"><sub>- Grady Booch</sub></p>
+<p align="center"><sub>- Ken Thompson</sub></p>
 <!--DEV_THOUGHT_END-->
 
