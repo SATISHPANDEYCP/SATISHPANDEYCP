@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Testing can prove the presence of bugs, but not their absence."</i></strong></p>
+<p align="center"><strong><i>"Truth can only be found in one place: the code."</i></strong></p>
 
-<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
+<p align="center"><sub>- Robert C. Martin</sub></p>
 <!--DEV_THOUGHT_END-->
 
