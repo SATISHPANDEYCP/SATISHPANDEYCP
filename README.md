@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Good code is its own best documentation."</i></strong></p>
+<p align="center"><strong><i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i></strong></p>
 
-<p align="center"><sub>- Steve McConnell</sub></p>
+<p align="center"><sub>- Bill Gates</sub></p>
 <!--DEV_THOUGHT_END-->
 
