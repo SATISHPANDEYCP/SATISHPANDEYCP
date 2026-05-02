@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Before software can be reusable it first has to be usable."</i></strong></p>
+<p align="center"><strong><i>"There are two ways to write error-free programs; only the third one works."</i></strong></p>
 
-<p align="center"><sub>- Ralph Johnson</sub></p>
+<p align="center"><sub>- Alan Perlis</sub></p>
 <!--DEV_THOUGHT_END-->
 
