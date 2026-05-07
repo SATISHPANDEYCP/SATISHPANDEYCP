@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Premature optimization is the root of all evil."</i></strong></p>
+<p align="center"><strong><i>"Make it work, make it right, make it fast."</i></strong></p>
 
-<p align="center"><sub>- Donald Knuth</sub></p>
+<p align="center"><sub>- Kent Beck</sub></p>
 <!--DEV_THOUGHT_END-->
 
