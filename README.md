@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"A language that doesn't affect the way you think about programming is not worth knowing."</i></strong></p>
+<p align="center"><strong><i>"First, solve the problem. Then, write the code."</i></strong></p>
 
-<p align="center"><sub>- Alan Perlis</sub></p>
+<p align="center"><sub>- John Johnson</sub></p>
 <!--DEV_THOUGHT_END-->
 
