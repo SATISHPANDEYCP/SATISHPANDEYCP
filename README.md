@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Make it work, make it right, make it fast."</i></strong></p>
+<p align="center"><strong><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i></strong></p>
 
-<p align="center"><sub>- Kent Beck</sub></p>
+<p align="center"><sub>- Martin Fowler</sub></p>
 <!--DEV_THOUGHT_END-->
 
