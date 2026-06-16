@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The sooner you start to code, the longer the program will take."</i></strong></p>
+<p align="center"><strong><i>"Fix the cause, not the symptom."</i></strong></p>
 
-<p align="center"><sub>- Roy Carlson</sub></p>
+<p align="center"><sub>- Steve Maguire</sub></p>
 <!--DEV_THOUGHT_END-->
 
