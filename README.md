@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The most disastrous thing that you can ever learn is your first programming language."</i></strong></p>
+<p align="center"><strong><i>"Fix the cause, not the symptom."</i></strong></p>
 
-<p align="center"><sub>- Alan Kay</sub></p>
+<p align="center"><sub>- Steve Maguire</sub></p>
 <!--DEV_THOUGHT_END-->
 
