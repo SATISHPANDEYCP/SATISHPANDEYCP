@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i></strong></p>
+<p align="center"><strong><i>"Simple things should be simple, complex things should be possible."</i></strong></p>
 
-<p align="center"><sub>- Harold Abelson</sub></p>
+<p align="center"><sub>- Alan Kay</sub></p>
 <!--DEV_THOUGHT_END-->
 
