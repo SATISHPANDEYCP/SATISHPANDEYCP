@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Optimism, when applied to your life, develops strength and peace within you."</i></strong></p>
+<p align="center"><strong><i>"When in doubt, use brute force."</i></strong></p>
 
-<p align="center"><sub>- Norman Vincent Peale</sub></p>
+<p align="center"><sub>- Ken Thompson</sub></p>
 <!--DEV_THOUGHT_END-->
 
