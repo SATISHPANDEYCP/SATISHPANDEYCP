@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i></strong></p>
+<p align="center"><strong><i>"When in doubt, use brute force."</i></strong></p>
 
-<p align="center"><sub>- Aristotle</sub></p>
+<p align="center"><sub>- Ken Thompson</sub></p>
 <!--DEV_THOUGHT_END-->
 
