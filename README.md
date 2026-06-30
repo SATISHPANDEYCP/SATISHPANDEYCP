@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"When in doubt, use brute force."</i></strong></p>
+<p align="center"><strong><i>"A language that doesn't affect the way you think about programming is not worth knowing."</i></strong></p>
 
-<p align="center"><sub>- Ken Thompson</sub></p>
+<p align="center"><sub>- Alan Perlis</sub></p>
 <!--DEV_THOUGHT_END-->
 
