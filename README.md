@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Fix the cause, not the symptom."</i></strong></p>
+<p align="center"><strong><i>"There are two ways to write error-free programs; only the third one works."</i></strong></p>
 
-<p align="center"><sub>- Steve Maguire</sub></p>
+<p align="center"><sub>- Alan Perlis</sub></p>
 <!--DEV_THOUGHT_END-->
 
