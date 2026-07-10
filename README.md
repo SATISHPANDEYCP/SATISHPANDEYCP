@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Software is a great combination between artistry and engineering."</i></strong></p>
+<p align="center"><strong><i>"The computing scientist's main challenge is not to get confused by the complexities of his own making."</i></strong></p>
 
-<p align="center"><sub>- Bill Gates</sub></p>
+<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
 <!--DEV_THOUGHT_END-->
 
