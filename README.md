@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Readability counts."</i></strong></p>
+<p align="center"><strong><i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i></strong></p>
 
-<p align="center"><sub>- Tim Peters</sub></p>
+<p align="center"><sub>- Dale Carnegie</sub></p>
 <!--DEV_THOUGHT_END-->
 
