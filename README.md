@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Simplicity is the soul of efficiency."</i></strong></p>
+<p align="center"><strong><i>"One of my most productive days was throwing away 1000 lines of code."</i></strong></p>
 
-<p align="center"><sub>- Austin Freeman</sub></p>
+<p align="center"><sub>- Ken Thompson</sub></p>
 <!--DEV_THOUGHT_END-->
 
