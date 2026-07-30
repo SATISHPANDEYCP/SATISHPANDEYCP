@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The only way to learn a new programming language is by writing programs in it."</i></strong></p>
+<p align="center"><strong><i>"When in doubt, use brute force."</i></strong></p>
 
-<p align="center"><sub>- Dennis Ritchie</sub></p>
+<p align="center"><sub>- Ken Thompson</sub></p>
 <!--DEV_THOUGHT_END-->
 
