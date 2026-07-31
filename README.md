@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"If debugging is the process of removing software bugs, then programming must be the process of putting them in."</i></strong></p>
+<p align="center"><strong><i>"We can spend our whole lives escaping from the monsters of our minds."</i></strong></p>
 
-<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
+<p align="center"><sub>- Pema Chodron</sub></p>
 <!--DEV_THOUGHT_END-->
 
