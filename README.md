@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Code never lies, comments sometimes do."</i></strong></p>
+<p align="center"><strong><i>"The most disastrous thing that you can ever learn is your first programming language."</i></strong></p>
 
-<p align="center"><sub>- Ron Jeffries</sub></p>
+<p align="center"><sub>- Alan Kay</sub></p>
 <!--DEV_THOUGHT_END-->
 
