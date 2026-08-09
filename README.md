@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"When in doubt, use brute force."</i></strong></p>
+<p align="center"><strong><i>"Testing can prove the presence of bugs, but not their absence."</i></strong></p>
 
-<p align="center"><sub>- Ken Thompson</sub></p>
+<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
 <!--DEV_THOUGHT_END-->
 
