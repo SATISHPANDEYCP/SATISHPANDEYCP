@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Code is like humor. When you have to explain it, it's bad."</i></strong></p>
+<p align="center"><strong><i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i></strong></p>
 
-<p align="center"><sub>- Cory House</sub></p>
+<p align="center"><sub>- Alan Watts</sub></p>
 <!--DEV_THOUGHT_END-->
 
