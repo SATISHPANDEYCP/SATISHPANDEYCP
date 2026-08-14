@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Good code is its own best documentation."</i></strong></p>
+<p align="center"><strong><i>"Deleted code is debugged code."</i></strong></p>
 
-<p align="center"><sub>- Steve McConnell</sub></p>
+<p align="center"><sub>- Jeff Sickel</sub></p>
 <!--DEV_THOUGHT_END-->
 
