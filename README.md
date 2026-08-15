@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"It is far easier to make a correct program fast than to make a fast program correct."</i></strong></p>
+<p align="center"><strong><i>"The most important property of a program is whether it accomplishes the intention of its user."</i></strong></p>
 
-<p align="center"><sub>- Herb Sutter</sub></p>
+<p align="center"><sub>- C. A. R. Hoare</sub></p>
 <!--DEV_THOUGHT_END-->
 
