@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The only way to learn a new programming language is by writing programs in it."</i></strong></p>
+<p align="center"><strong><i>"Controlling complexity is the essence of computer programming."</i></strong></p>
 
-<p align="center"><sub>- Dennis Ritchie</sub></p>
+<p align="center"><sub>- Brian Kernighan</sub></p>
 <!--DEV_THOUGHT_END-->
 
