@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Testing can prove the presence of bugs, but not their absence."</i></strong></p>
+<p align="center"><strong><i>"Fix the cause, not the symptom."</i></strong></p>
 
-<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
+<p align="center"><sub>- Steve Maguire</sub></p>
 <!--DEV_THOUGHT_END-->
 
