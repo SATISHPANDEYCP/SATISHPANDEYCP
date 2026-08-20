@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"First, solve the problem. Then, write the code."</i></strong></p>
+<p align="center"><strong><i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i></strong></p>
 
-<p align="center"><sub>- John Johnson</sub></p>
+<p align="center"><sub>- Bill Gates</sub></p>
 <!--DEV_THOUGHT_END-->
 
