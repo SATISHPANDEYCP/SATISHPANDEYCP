@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Good code is its own best documentation."</i></strong></p>
+<p align="center"><strong><i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i></strong></p>
 
-<p align="center"><sub>- Steve McConnell</sub></p>
+<p align="center"><sub>- Norman Vincent Peale</sub></p>
 <!--DEV_THOUGHT_END-->
 
