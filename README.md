@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i></strong></p>
+<p align="center"><strong><i>"Before software can be reusable it first has to be usable."</i></strong></p>
 
-<p align="center"><sub>- Martin Fowler</sub></p>
+<p align="center"><sub>- Ralph Johnson</sub></p>
 <!--DEV_THOUGHT_END-->
 
