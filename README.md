@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Talk is cheap. Show me the code."</i></strong></p>
+<p align="center"><strong><i>"The best error message is the one that never shows up."</i></strong></p>
 
-<p align="center"><sub>- Linus Torvalds</sub></p>
+<p align="center"><sub>- Thomas Fuchs</sub></p>
 <!--DEV_THOUGHT_END-->
 
