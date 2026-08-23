@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"There are two ways to write error-free programs; only the third one works."</i></strong></p>
+<p align="center"><strong><i>"The computing scientist's main challenge is not to get confused by the complexities of his own making."</i></strong></p>
 
-<p align="center"><sub>- Alan Perlis</sub></p>
+<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
 <!--DEV_THOUGHT_END-->
 
