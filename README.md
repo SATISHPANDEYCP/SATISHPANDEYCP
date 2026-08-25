@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The best error message is the one that never shows up."</i></strong></p>
+<p align="center"><strong><i>"The function of good software is to make the complex appear simple."</i></strong></p>
 
-<p align="center"><sub>- Thomas Fuchs</sub></p>
+<p align="center"><sub>- Grady Booch</sub></p>
 <!--DEV_THOUGHT_END-->
 
