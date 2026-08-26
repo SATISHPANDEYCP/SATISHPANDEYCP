@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i></strong></p>
+<p align="center"><strong><i>"Before software can be reusable it first has to be usable."</i></strong></p>
 
-<p align="center"><sub>- Arnold Schwarzenegger</sub></p>
+<p align="center"><sub>- Ralph Johnson</sub></p>
 <!--DEV_THOUGHT_END-->
 
