@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i></strong></p>
+<p align="center"><strong><i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i></strong></p>
 
-<p align="center"><sub>- Bill Gates</sub></p>
+<p align="center"><sub>- Arnold Schwarzenegger</sub></p>
 <!--DEV_THOUGHT_END-->
 
