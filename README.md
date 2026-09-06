@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The only way to learn a new programming language is by writing programs in it."</i></strong></p>
+<p align="center"><strong><i>"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."</i></strong></p>
 
-<p align="center"><sub>- Dennis Ritchie</sub></p>
+<p align="center"><sub>- Bill Gates</sub></p>
 <!--DEV_THOUGHT_END-->
 
