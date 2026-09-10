@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The best error message is the one that never shows up."</i></strong></p>
+<p align="center"><strong><i>"Before software can be reusable it first has to be usable."</i></strong></p>
 
-<p align="center"><sub>- Thomas Fuchs</sub></p>
+<p align="center"><sub>- Ralph Johnson</sub></p>
 <!--DEV_THOUGHT_END-->
 
