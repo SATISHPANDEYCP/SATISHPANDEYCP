@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Programs must be written for people to read, and only incidentally for machines to execute."</i></strong></p>
+<p align="center"><strong><i>"The sooner you start to code, the longer the program will take."</i></strong></p>
 
-<p align="center"><sub>- Harold Abelson</sub></p>
+<p align="center"><sub>- Roy Carlson</sub></p>
 <!--DEV_THOUGHT_END-->
 
