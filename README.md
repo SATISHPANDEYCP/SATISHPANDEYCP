@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Code is like humor. When you have to explain it, it's bad."</i></strong></p>
+<p align="center"><strong><i>"Before software can be reusable it first has to be usable."</i></strong></p>
 
-<p align="center"><sub>- Cory House</sub></p>
+<p align="center"><sub>- Ralph Johnson</sub></p>
 <!--DEV_THOUGHT_END-->
 
