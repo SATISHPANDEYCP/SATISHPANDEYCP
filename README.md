@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"The most important property of a program is whether it accomplishes the intention of its user."</i></strong></p>
+<p align="center"><strong><i>"The sooner you start to code, the longer the program will take."</i></strong></p>
 
-<p align="center"><sub>- C. A. R. Hoare</sub></p>
+<p align="center"><sub>- Roy Carlson</sub></p>
 <!--DEV_THOUGHT_END-->
 
