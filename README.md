@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Make it work, make it right, make it fast."</i></strong></p>
+<p align="center"><strong><i>"Deleted code is debugged code."</i></strong></p>
 
-<p align="center"><sub>- Kent Beck</sub></p>
+<p align="center"><sub>- Jeff Sickel</sub></p>
 <!--DEV_THOUGHT_END-->
 
