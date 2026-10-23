@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Testing can prove the presence of bugs, but not their absence."</i></strong></p>
+<p align="center"><strong><i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i></strong></p>
 
-<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
+<p align="center"><sub>- Arnold Schwarzenegger</sub></p>
 <!--DEV_THOUGHT_END-->
 
