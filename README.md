@@ -101,8 +101,8 @@
 <h2>Developer Thought</h2>
 
 <!--DEV_THOUGHT_START-->
-<p align="center"><strong><i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i></strong></p>
+<p align="center"><strong><i>"Testing can prove the presence of bugs, but not their absence."</i></strong></p>
 
-<p align="center"><sub>- Aristotle</sub></p>
+<p align="center"><sub>- Edsger W. Dijkstra</sub></p>
 <!--DEV_THOUGHT_END-->
 
